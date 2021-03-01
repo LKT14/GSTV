@@ -20,6 +20,7 @@ document.querySelector(".js-go").addEventListener('click',function(){
   /* 2. do the data stuff with the API */
   
   var url = "http://api.giphy.com/v1/gifs/search?&api_key=dc6zaTOxFJmzC&q="+ s;
+             
 
   // AJAX Request
   var GiphyAJAXCall = new XMLHttpRequest();
