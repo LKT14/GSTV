@@ -1,7 +1,4 @@
-/*
-1. Search for the gif 
-2. display the gif 
-*/
+
 document.querySelector(".js-go").addEventListener('click', function() {
 	var inputValue = document.querySelector('.js-userinput').value;
 		var userInput = getUserInput();
