@@ -29,9 +29,11 @@ body {
 	border-radius: 5px;
 }
 
-.container-image {
-	width: 80%;
-	display: block;
-	float: left;
-	margin-right:3%;
+.gif {
+	margin: 0;
+padding: 0;
+width: 80%;
+height: 80%;
+
+
 }
